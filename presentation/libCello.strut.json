@@ -1,0 +1,889 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 232,
+          "y": 106,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "libCello",
+          "size": 158,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 332,
+          "y": 311,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "High level C<br>",
+          "size": 65,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 414,
+          "y": 686,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Amin Khozaei<br>",
+          "size": 30,
+          "selected": false
+        },
+        {
+          "src": "http://libcello.org/static/img/logo.png",
+          "type": "Image",
+          "x": 57,
+          "y": 90,
+          "scale": {
+            "x": 2.609375,
+            "y": 2.609375,
+            "width": 167,
+            "height": 167
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "https://shirazlug.ir/wp-content/themes/shirazlug/images/logo1.png",
+          "type": "Image",
+          "x": 385,
+          "y": 561,
+          "scale": {
+            "x": 0.36,
+            "y": 0.36,
+            "width": 252,
+            "height": 114.11999999999999
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": true,
+      "active": true,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 342,
+          "y": 35,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Why C?<br>",
+          "size": 93,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 80,
+          "y": 228,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "One of the most popular<br>and influential programming<br>language in the world.<br>",
+          "size": 37,
+          "selected": false
+        },
+        {
+          "src": "http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Gnulinux.svg/170px-Gnulinux.svg.png",
+          "type": "Image",
+          "x": 590,
+          "y": 244,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://cdn.redmondpie.com/wp-content/uploads/2013/06/OS-X-Mavericks-logo.png",
+          "type": "Image",
+          "x": 403,
+          "y": 528,
+          "scale": {
+            "x": 0.3944020356234097,
+            "y": 0.3944020356234097,
+            "width": 155,
+            "height": 155
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://cdn2.wccftech.com/wp-content/uploads/2015/04/windows_logo.png",
+          "type": "Image",
+          "x": 62,
+          "y": 419,
+          "scale": {
+            "x": 0.3276595744680851,
+            "y": 0.3276595744680851,
+            "width": 308,
+            "height": 269.663829787234
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 709,
+          "y": 479,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div align=\"center\">used on<br></div><div align=\"center\">micro-computers<br></div>",
+          "size": 34,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 412,
+      "y": 345
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 266,
+          "y": 42,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "How to learn C<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 72,
+          "y": 221,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<div align=\"left\">There is no way around<br>the fact that C is a <br>difficult language</div>",
+          "size": 32,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 46,
+          "y": 494,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Many concepts that are unfamiliar",
+          "size": 25,
+          "selected": false
+        },
+        {
+          "src": "http://c.learncodethehardway.org/book/",
+          "type": "WebFrame",
+          "x": 433,
+          "y": 201,
+          "scale": {
+            "x": 0.5864583333333333,
+            "y": 0.5864583333333333,
+            "width": 563,
+            "height": 450.4
+          },
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 214,
+      "y": 529
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 398,
+          "y": 56,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Cello<br>",
+          "size": 90,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 80,
+          "y": 264,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "library that brings higher level<br>&nbsp;programming to C",
+          "size": 44,
+          "selected": false
+        },
+        {
+          "src": "http://libcello.org/static/img/logo.png",
+          "type": "Image",
+          "x": 829,
+          "y": 47,
+          "scale": {
+            "x": 2.203125,
+            "y": 2.203125,
+            "width": 141,
+            "height": 141
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 272,
+          "y": 546,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Not a programming language<br>",
+          "size": 37,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "x": 687,
+      "y": 275
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 245,
+          "y": 49,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Cello features<br>",
+          "size": 88,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 157,
+          "y": 274,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "<br><ul><li>&nbsp;&nbsp;&nbsp; Generic Data Structures</li><li>&nbsp;&nbsp;&nbsp; Polymorphic Functions</li><li>&nbsp;&nbsp;&nbsp; Interfaces / Type Classes</li><li>&nbsp;&nbsp;&nbsp; Constructors / Destructors</li><li>&nbsp;&nbsp;&nbsp; Optional Garbage Collection</li><li>&nbsp;&nbsp;&nbsp; Exceptions</li><li>&nbsp;&nbsp;&nbsp; Reflection</li></ul>",
+          "size": 33,
+          "selected": false
+        },
+        {
+          "src": "http://libcello.org/static/img/logo.png",
+          "type": "Image",
+          "x": 754,
+          "y": 501,
+          "scale": {
+            "x": 2.875,
+            "y": 2.875,
+            "width": 184,
+            "height": 184
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 790,
+      "y": 480
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 254,
+          "y": 54,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "C's big mistake<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 88,
+          "y": 276,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Conflating pointers with arrays",
+          "size": 36,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 80,
+          "y": 487,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "void foo(char a[])",
+          "size": 37,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 595,
+          "y": 486,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "void foo(char *a)",
+          "size": 34,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 447,
+          "y": 460,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "=",
+          "size": 83,
+          "selected": false,
+          "rotate": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 651,
+      "y": 97
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 368,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Solution",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 161,
+          "y": 513,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "proposed by <b>Walter Bright</b> (inventor of the D programming language) <br>",
+          "size": 24,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 319,
+          "y": 388,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Fat Pointers<br>",
+          "size": 72,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1081,
+      "y": 128
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 226,
+          "y": 57,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "How does it work?",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 80,
+          "y": 285,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |--------------|&nbsp; &lt;-- Pointer to number of items<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp; ptr.length |<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |==============|&nbsp; &lt;-- Pointer passed to functions<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp; ptr.item[0] |<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |--------------|<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp; ptr.item[1] |<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |--------------|<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp; ....&nbsp;&nbsp;&nbsp;&nbsp; |<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |--------------|",
+          "size": 36,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "x": 1377,
+      "y": 294
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 128,
+          "y": 59,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "C has no runtime system<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 362,
+          "y": 422,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Cello added it<br>",
+          "size": 36,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 240,
+          "y": 514,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "typedef void* var;<br>",
+          "size": 66,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "x": 1660,
+      "y": 474
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 298,
+          "y": 51,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Cello vs C++<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 50,
+          "y": 436,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Cello Cons<br><br>&nbsp;&nbsp;&nbsp; No Support for Smart Pointers<br>&nbsp;&nbsp;&nbsp; No Support for Rich Stack Types<br>&nbsp;&nbsp;&nbsp; Much Smaller Standard Library<br>&nbsp;&nbsp;&nbsp; More Relaxed Type System<br>&nbsp;&nbsp;&nbsp; Fewer Developers, Less Support<br>&nbsp;&nbsp;&nbsp; No Templates<br>",
+          "size": 30,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 489,
+          "y": 205,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Cello Pros<br><br>&nbsp;&nbsp;&nbsp; Basic Garbage Collection<br>&nbsp;&nbsp;&nbsp; Consistent &amp; Clean Standard Library<br>&nbsp;&nbsp;&nbsp; Powerful Runtime with Reflection<br>&nbsp;&nbsp;&nbsp; A Simple Extension to C",
+          "size": 29,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "x": 1754,
+      "y": 226
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 283,
+          "y": 63,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Cello vs ObjC<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 59,
+          "y": 520,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Cello Cons<br><br>&nbsp;&nbsp;&nbsp; No Compile Time Type Checking<br>&nbsp;&nbsp;&nbsp; No Apple / OS X Libraries<br><br>",
+          "size": 27,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 434,
+          "y": 253,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Cello Pros<br><br>&nbsp;&nbsp;&nbsp; Basic Garbage Collection<br>&nbsp;&nbsp;&nbsp; Composition Based Design<br>&nbsp;&nbsp;&nbsp; Exceptions instead of Error Codes<br><br>",
+          "size": 31,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "x": 1975,
+      "y": 441
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 265,
+          "y": 63,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Compile Cello<br>",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 183,
+          "y": 292,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "Can be compile with C compiler<br>no other compiler needed<br>",
+          "size": 44,
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 2237,
+      "y": 236
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 290,
+          "y": 62,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "text": "References",
+          "size": 72,
+          "selected": false
+        },
+        {
+          "src": "http://www.buildyourownlisp.com/",
+          "type": "WebFrame",
+          "x": 80,
+          "y": 162,
+          "scale": {
+            "x": 0.3502955805609916,
+            "y": 0.3502955805609916,
+            "width": 179.0010416666667,
+            "height": 143.27089244944557
+          },
+          "selected": false
+        },
+        {
+          "src": "http://www.drdobbs.com/architecture-and-design/cs-biggest-mistake/228701625",
+          "type": "WebFrame",
+          "x": 527,
+          "y": 161,
+          "scale": {
+            "x": 0.3666666666666667,
+            "y": 0.3666666666666667,
+            "width": 352,
+            "height": 281.6
+          },
+          "selected": false
+        },
+        {
+          "src": "http://libcello.org/home",
+          "type": "WebFrame",
+          "x": 253,
+          "y": 319,
+          "scale": {
+            "x": 0.45416666666666666,
+            "y": 0.45416666666666666,
+            "width": 436,
+            "height": 348.8
+          },
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 1210,
+      "y": 546
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "TextBox": {},
+        "x": 232,
+        "y": 106,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "libCello",
+        "size": 158,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 332,
+        "y": 311,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "High level C<br>",
+        "size": 65,
+        "selected": false
+      },
+      {
+        "TextBox": {},
+        "x": 414,
+        "y": 686,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "type": "TextBox",
+        "text": "Amin Khozaei<br>",
+        "size": 30,
+        "selected": false
+      },
+      {
+        "src": "http://libcello.org/static/img/logo.png",
+        "type": "Image",
+        "x": 57,
+        "y": 90,
+        "scale": {
+          "x": 2.609375,
+          "y": 2.609375,
+          "width": 167,
+          "height": 167
+        },
+        "imageType": "PNG",
+        "selected": false
+      },
+      {
+        "src": "https://shirazlug.ir/wp-content/themes/shirazlug/images/logo1.png",
+        "type": "Image",
+        "x": 385,
+        "y": 561,
+        "scale": {
+          "x": 0.36,
+          "y": 0.36,
+          "width": 252,
+          "height": 114.11999999999999
+        },
+        "imageType": "PNG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 0,
+    "selected": true,
+    "active": true,
+    "x": 180,
+    "y": 180
+  },
+  "fileName": "libCello.strut",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}

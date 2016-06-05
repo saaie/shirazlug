@@ -1,1 +1,2 @@
-# shirazlug\nShiraz Linux User Group
+# shirazlug
+Shiraz Linux User Group
